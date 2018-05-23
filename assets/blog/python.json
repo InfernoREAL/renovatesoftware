@@ -1,0 +1,9 @@
+{
+  "blog": [
+    {
+      "title": "TensorFlow Object Detection in Action",
+      "date_time": "23-May-2018",
+      "description": "This week I sat down with my fellow Developer Advocate and all-around awesome person Sara Robinson to talk about the app she built to play with the TensorFlow Object Detection API.<br><br>We discussed her blog post and GitHub project where she wrote an iOS app that detects Taylor Swift in pictures. More notably, she’s open-sourced the code, so you can make your own Taylor Swift detector! Of course, you can train the model on whatever it is that you want to detect. The TensorFlow team recently updated the model to not only draw a bounding box, but also fill in the specific region of the image where the detection happened, which is absolutely magical!<br><br>Check out the video above for the full interview, where we break down, step-by-step and piece-by-piece, the process Sara went through to get this built. Be sure to stick around for the bloopers at the end :)."
+    }
+  ]
+}
